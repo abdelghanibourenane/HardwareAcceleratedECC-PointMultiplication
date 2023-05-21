@@ -14,5 +14,5 @@ Support for elliptic curve Diffie-Hellman (ECDH) and elliptic curve digital sign
 The repository aims to provide a comprehensive solution for accelerating ECC operations using a hardware IP design that leverages an optimized scalar recoding technique. By offering high-level software drivers, it enables seamless integration into high-level designs and facilitates the implementation of ECDH and ECDSA protocols with improved performance and efficiency.
 
 ## Development Environment
-/home/ghani/git/HardwareAcceleratedECC-PointMultiplication/PYNQ-MAP.png
+![alt text](https://github.com/abdelghanibourenane/HardwareAcceleratedECC-PointMultiplication/blob/main/PYNQ-MAP.png)
 
